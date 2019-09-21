@@ -7,7 +7,7 @@ def is_self_dividing(n):
         if num % (n % 10) == 0:
             count += 1
         countOfNum += 1
-        n = n/10
+        n = n / 10
         if count == countOfNum:
             return True
         else:
