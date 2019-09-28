@@ -14,7 +14,4 @@ def get_largest_perimeter(L):
         return maxPer
 
 if __name__ == "__main__":
-    print(get_largest_perimeter([
-                        12, 5, 3, 
-                        7, 1, 8
-                                ]))
+    print(get_largest_perimeter([12, 5, 3, 7, 1, 8]))
