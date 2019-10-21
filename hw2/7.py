@@ -12,3 +12,4 @@ def get_three_sum(nums, k):
 
 if __name__ == "__main__":
     print(get_three_sum([2, 7, 11, 15], 24))
+    
