@@ -10,3 +10,4 @@ def get_two_sum(nums, k):
 
 if __name__ == "__main__":
     print(get_two_sum([2, 7, 11, 15], 18))
+    
