@@ -21,3 +21,4 @@ def count_unique_codes(words):
 
 if __name__ == "__main__":
     print(count_unique_codes(["gin", "zen", "gig", "msg"]))
+    
