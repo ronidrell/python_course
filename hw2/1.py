@@ -5,3 +5,4 @@ if __name__ == "__main__":
     print(number_of_matches("Aa", "aAAbbbbb"))
     print(number_of_matches("z", "ZZ"))
     print(number_of_matches("Abc", "aAAbbbbb"))
+    
