@@ -24,10 +24,3 @@ def two_best(words):
 
 
 print(two_best(['hEllO', 'wOrLD', 'i', 'aM', 'PyThOn']))
-
-
-
-
-
-
-
