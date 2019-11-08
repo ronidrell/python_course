@@ -16,7 +16,3 @@ class ComplexNumbers:
     def __mul__(self, other_complex_number):
         return ComplexNumbers(self.real * other_complex_number.real - self.imag * other_complex_number.imag,
                               self.imag * other_complex_number.real + self.real * other_complex_number.imag)
-
-
-x = ComplexNumbers(5, -4)
-y = ComplexNumbers(3)
